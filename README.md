@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi I'm Uma Maheswari R
 
-<!--
-**Uma-Maheswari298/Uma-Maheswari298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Aspiring Data Analyst
+- I am an aspiring Data Analyst passionate about transforming data into meaningful insights and building interactive dashboards.
+##🛠️ Technical Skills
+- Excel
+- SQL
+- Python
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
+##🎓 Education
+- M.sc Computer Science 2020
+##📚 Certifications
+- AI Driven Data Analyst Certification - Entri Elevate/ NSDC
+##📁 Projects
+- Poshan Scheme Coverage & Infrastructure Analysis
+- Bike Station Analysis
+##🎯 Career Goal
+- Looking for opportunities to start my career as a Data Analyst and contribute to data-driven decision making.
+  
