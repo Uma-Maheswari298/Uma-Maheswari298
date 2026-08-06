@@ -20,8 +20,9 @@
   
 ## 📁 Projects
 - Poshan Scheme Coverage & Infrastructure Analysis
-- Bike Station Analysis
-- 
+- Bike Station Utilization Analysis
+- E-Learning Purchase Analysis - MySQL
+- Retail Sales Analysis - Excel
 ## 🎯 Career Goal
 - Looking for opportunities to start my career as a Data Analyst and contribute to data-driven decision making.
   
